@@ -14,7 +14,7 @@ const AllRoutes = () => {
         <ScrollTopBehaviour />
         <Routes>
           <Route path="/home-dark" element={<Preview />} />
-          <Route path="/" element={<HomeDark />} />
+          <Route path="/Portfolio" element={<HomeDark />} />
           <Route path="/home-rtl" element={<HomeRtl />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
