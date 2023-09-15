@@ -2,7 +2,7 @@
   "name": "Divyesh Chandegara Portfolio ",
   "homepage": "https://Divyesh2196.github.io/Portfolio",
   "version": "2.2.1",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.11.4",
