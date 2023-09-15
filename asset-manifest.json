@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.6bccd2be.css",
+    "main.js": "/Portfolio/static/js/main.5d04afc8.js",
+    "static/js/27.e9e33377.chunk.js": "/Portfolio/static/js/27.e9e33377.chunk.js",
+    "static/media/video.mp4": "/Portfolio/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
+    "static/media/JustPlan.png": "/Portfolio/static/media/JustPlan.503b45dd5e2a50d4414a.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/dsolar.jpg": "/Portfolio/static/media/dsolar.0e56d5c77139881b4e46.jpg",
+    "static/media/dalzielracing.jpg": "/Portfolio/static/media/dalzielracing.306c3e2c67b0c8c671bc.jpg",
+    "static/media/fontawesome-webfont.eot": "/Portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bebranded.jpg": "/Portfolio/static/media/bebranded.02878b05746eeb2310b4.jpg",
+    "static/media/404.jpg": "/Portfolio/static/media/404.19e523cdb4d4a12db938.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/rtl.jpg": "/Portfolio/static/media/rtl.fc623d3befe9a7acb1ac.jpg",
+    "static/media/dark.jpg": "/Portfolio/static/media/dark.c1cda9e0d5088e62fa77.jpg",
+    "static/media/Divyesh_Chandegara_Resume_04-08-2022-08-03-42.pdf": "/Portfolio/static/media/Divyesh_Chandegara_Resume_04-08-2022-08-03-42.512db7c682ef4015d77f.pdf",
+    "static/media/slick.svg": "/Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/cancel.svg": "/Portfolio/static/media/cancel.17825c74c3c6b6934429010ee3f913fd.svg",
+    "static/media/slick.woff": "/Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.6bccd2be.css",
+    "static/js/main.5d04afc8.js"
+  ]
+}
