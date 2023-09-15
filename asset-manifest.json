@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.6bccd2be.css",
-    "main.js": "/Portfolio/static/js/main.5d04afc8.js",
+    "main.js": "/Portfolio/static/js/main.cf79da13.js",
     "static/js/27.e9e33377.chunk.js": "/Portfolio/static/js/27.e9e33377.chunk.js",
     "static/media/video.mp4": "/Portfolio/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
     "static/media/JustPlan.png": "/Portfolio/static/media/JustPlan.503b45dd5e2a50d4414a.png",
@@ -26,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.6bccd2be.css",
-    "static/js/main.5d04afc8.js"
+    "static/js/main.cf79da13.js"
   ]
 }
